@@ -8,6 +8,9 @@
  More about VITULUS? See my website.
  [lacina.dev](https://lacina.dev)
 
+ Questions? Try Discord.
+ [Lacina.dev Discord channel](https://discord.gg/YqeNV5hEVN)
+
 ![alt](pwrModExt3D.png)
 
 
