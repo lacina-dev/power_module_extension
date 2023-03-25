@@ -6,7 +6,7 @@
  [VITULUS Power module assembly and wiring](https://docs.google.com/document/d/1gbUeb38EpmrZyLzsyhS_GtbKjz4Z-vhWeXakbzIWZlc/edit?usp=sharing)
 
  More about VITULUS? See my website.
- [lacina.dev](https://lacina.dev)
+ [https://lacina.dev](https://lacina.dev)
 
  Questions? Try Discord.
  [Discord channel](https://discord.gg/YqeNV5hEVN)
