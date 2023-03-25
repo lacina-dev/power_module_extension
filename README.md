@@ -1,4 +1,4 @@
-# power_module_extension
+# Power module extender
 
  Extension for VITULUS power module.
 
