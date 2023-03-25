@@ -11,8 +11,11 @@
  Questions? Try Discord.
  [Discord channel](https://discord.gg/YqeNV5hEVN)
 
-Power module extension
+Power module extension 
+
 ![Power module extension](pwrModExt3D.png)
 
+
 Power module assembled
+
 ![Power module assembled](DSC03553.JPG)
