@@ -14,7 +14,7 @@
 ----------
 
 
-Power module extension 
+Power module extension board
 
 ![Power module extension](pwrModExt3D.png)
 
