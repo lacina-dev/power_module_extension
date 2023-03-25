@@ -11,4 +11,4 @@
 ![alt](pwrModExt3D.png)
 
 
-![alt](https://github.com/lacina-dev/power_module_extension/blob/main/DSC03553.JPG?raw=true)
+![alt](DSC03553.JPG)
