@@ -8,7 +8,7 @@
  More about VITULUS? See my website.
  [lacina.dev](https://lacina.dev)
 
-![alt](https://github.com/lacina-dev/power_module_extension/blob/main/pwrModExt3D.png?raw=true)
+![alt](pwrModExt3D.png)
 
 
 ![alt](https://github.com/lacina-dev/power_module_extension/blob/main/DSC03553.JPG?raw=true)
