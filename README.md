@@ -2,6 +2,8 @@
 
  Extension board for VITULUS power module.
 
+ For power module software see [Power module v3.1](https://github.com/lacina-dev/powermodulev3_1).
+
  For power module board see [Power module](https://github.com/lacina-dev/power_module).
  
  For more info see this doc. 
